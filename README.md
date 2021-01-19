@@ -12,4 +12,4 @@ To run the script, use your shell's default way of running scripts. For a Mac us
 
 Running this script will log you into Access, but you will still need to SSH into a specific machine after.
 
-To make the script work for you, change all of the ClemsonUsername and ClemsonPassword values to your own within connect.sh.
+To make the script work for you, change all of the ClemsonUsername and Clemson Password values to your own within connect.sh.

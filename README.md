@@ -1,6 +1,7 @@
 I made this script so that I can easily access the SOC machines at Clemson via SSH.
 
-Before running this for the first time, you need to set permissions. I used ```
+Before running this for the first time, you need to set permissions. I used 
+```
 chmod -x connect.sh
 ```
 
